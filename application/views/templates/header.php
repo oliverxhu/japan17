@@ -21,7 +21,4 @@
 		</style>
 	</head>
 	
-	<body>    
-		<script>
-		// JAVASCRIPT	
-		</script>
+	<body>
